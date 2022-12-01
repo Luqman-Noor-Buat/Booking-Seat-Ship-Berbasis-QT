@@ -23,7 +23,11 @@
    </size>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>Seat Ship Booking</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../Downloads/ship-icon_34102.png</normaloff>../../../Downloads/ship-icon_34102.png</iconset>
   </property>
   <widget class="QComboBox" name="comboBox_2">
    <property name="geometry">
